@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="testconfig.js" type="JavaScript" />
+      <mapping pattern="order" type="PLAIN_TEXT" />
+      <mapping pattern="SmokeTestAPI" type="PLAIN_TEXT" />
+      <mapping pattern="gitlab91-inspect" type="PLAIN_TEXT" />
+      <mapping pattern="gitlab-inspect" type="PLAIN_TEXT" />
+      <mapping ext="swp" type="PLAIN_TEXT" />
+      <mapping ext="base64" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
